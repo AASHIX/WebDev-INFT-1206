@@ -1,0 +1,30 @@
+/*
+Name: Ashish Ajay
+File: Style.css
+Date: 18-06-2026
+*/
+
+html {
+  background-color: white;
+}
+
+body {
+  font: 1.2em / 1.5 system-ui;
+  background-color: #efefef;
+  padding: 20px;
+  width: 500px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul {
+    background-color: white;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: purple;
+    border-width: 5px;
+    padding:30px;
+}
+
