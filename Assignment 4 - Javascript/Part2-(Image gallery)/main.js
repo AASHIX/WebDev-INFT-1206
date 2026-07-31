@@ -15,7 +15,7 @@ const images = [
 ];
 
 //url for all the images
-const baseURL ="https://aashix.github.io/WebDev-INFT-1206/Assignment 4 - Javascript/Part2-(Image gallery)/Images/";
+const baseURL ="https://mdn.github.io/shared-assets/images/examples/learn/gallery/";
 
 //Loop for image
 
