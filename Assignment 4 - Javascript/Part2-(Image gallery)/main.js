@@ -15,8 +15,7 @@ const images = [
 ];
 
 //url for all the images
-
-const baseURL ="";
+const baseURL ="https://aashix.github.io/WebDev-INFT-1206/Assignment 4 - Javascript/Part2-(Image gallery)/Images/";
 
 //Loop for image
 
